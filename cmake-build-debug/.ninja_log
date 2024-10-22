@@ -1,0 +1,8 @@
+# ninja log v6
+6	179	7513062161167200	CMakeFiles/Recursion.dir/main.c.obj	ed89112fef3e9932
+102	254	7513073748867556	Recursion.exe	71d5a7359011e573
+5	95	7513065708553171	CMakeFiles/Recursion.dir/Sum_of_numbers.c.obj	1b068f9e15675f66
+5	97	7513069670970397	CMakeFiles/Recursion.dir/Factorial.c.obj	cb2e26f7ace85f45
+3	266	7513075942973461	build.ninja	3d8614abfd1d9ef5
+5	102	7513073747910345	CMakeFiles/Recursion.dir/Perfect_numbers_iterative.c.obj	732be8f6232b064a
+3	258	7513075942973461	build.ninja	3d8614abfd1d9ef5
